@@ -1,5 +1,5 @@
 repostiory adden
-git clone
+git clone (link)
 
 
 git add .
