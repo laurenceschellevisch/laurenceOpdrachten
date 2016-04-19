@@ -1,0 +1,24 @@
+.img {
+    width:80%;
+    height:85%;
+    float:right;
+    position: relative;
+    opacity: 0.8;
+      -webkit-transition: all 0.5s ease;
+}
+
+.img:hover {
+    opacity: 1.0;
+    -webkit-transform:scale(1.10);
+}
+
+.autokader {
+    width:398px;
+    height:219px;
+    background-color:#EEEEEE;
+    margin:10px;
+    border-style: 3px 2px solid black;
+    float:left;
+    
+}
+
